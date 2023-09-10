@@ -2,6 +2,14 @@
 
 This collection of repositories forms the online world of [Rich On Rails](www.richonrails.me).
 
+- [Blog](https://richonrails.blog)
+- [Photos](https://richonrails.photos)
+- [My Podcast](https://richonrails.show)
+- [Social Links](https://richonrails.social)
+- [Working With Me](https://richonrails.me/manual)
+- [What I am Working On Now](https://now.richonrails.me)
+- [What I Use](https://richonrails.me/uses/)
+
 ### Why GitHub?
 
 Hosting blogs and websites on WordPress for so many years you get to find out that it isn't as simple as it looks, maintaining a site, stopping hackers, updating plugins all takes time and effort for which this project doesn't have. 

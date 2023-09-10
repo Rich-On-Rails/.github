@@ -1,12 +1,13 @@
-## Hi there 👋
+![](profile/images/git-banner.png)
 
-<!--
+This collection of repositories forms the online world of Rich On Rails.
 
-**Here are some ideas to get you started:**
+### Why GitHub?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Hosting blogs and websites on WordPress for so many years you get to find out that it isn't as simple as it looks, maintaining a site, stopping hackers, updating plugins all takes time and effort for which this project doesn't have. 
+
+All the sites within the Rich On Rails "universe" make use of static website generators, mainly Hugo and are hosted on Netlify for simplicity. 
+
+### Publication
+
+Sites are updated using Netlify's GitHub CI workflow, when a change gets committed to main be that directly or via a pull request, the site will get rebuilt and deployed without having to generate any files, open any FTP or change any configuration files because some plugin decided to make a breaking change. 
